@@ -1,6 +1,6 @@
 # FlowComb
 
-FlowComb was developed by Orian Bricard(https://github.com/obricard/FlowComb).
+FlowComb was developed by [Orian Bricard](https://github.com/obricard/FlowComb).
 
 FlowComb is an easy-to-use Rshiny app that will systematically identify all the combinations of differentially expressed markers. 
 This is a very sensitive way of finding all the statistically different subpopulations between two groups.
